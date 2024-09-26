@@ -655,6 +655,7 @@ pre code {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
+  justify-content: center;
   -webkit-flex-wrap: wrap;
       -ms-flex-wrap: wrap;
           flex-wrap: wrap;
@@ -11773,6 +11774,11 @@ pre .code {
 .projects-p{
   font-size: 18px;
   opacity: 0.6;
+}
+
+.services-t{
+  font-size: 16px;
+  color: var(--cyan) !important;
 }
 
 
